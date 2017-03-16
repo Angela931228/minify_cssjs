@@ -1,0 +1,19 @@
+{
+  "name": "minify_cssjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.0.3",
+    "gulp-cli": "^1.2.2",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^2.0.1",
+    "pump": "^1.0.2"
+  }
+}
